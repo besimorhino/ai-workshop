@@ -10,7 +10,7 @@ The workbooks are grouped by topic and increase in difficulty as you go through 
 
 ## Foundations
 1. [Intro to Jupyter Lab workbooks (optional)](Intro_to_Jupyter.ipynb)  
-2. Intro to Python (optional)
+2. [Intro to Python](intro_to_python.ipynb) (optional)
 3. Helpful Vocabulary
 
 ## Embeddings 
