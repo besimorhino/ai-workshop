@@ -11,24 +11,29 @@ The workbooks are grouped by topic and increase in difficulty as you go through 
 ## Foundations
 1. [Intro to Jupyter Lab workbooks (optional)](Intro_to_Jupyter.ipynb)  
 2. Intro to Python (optional)
+3. Helpful Vocabulary
 
 ## Embeddings 
-3. [Space is meaning](space_approximates_meaning_vectors.ipynb)
-4. [Tokens](Tokens.ipynb)
-5. Embeddings
+4. [Space is meaning](space_approximates_meaning_vectors.ipynb)
+5. [Tokens](Tokens.ipynb)
+6. Embeddings
 
 ## Vectorization of data
-6. Text vectorization
-7. [Audio vectorization](audio_vectorize.ipynb)
-8. [Image vectorization](image_vectorize_demo.ipynb)
-9. [Vector math](text_vector_math.ipynb)
+7. Text vectorization
+8. [Audio vectorization](audio_vectorize.ipynb)
+9. [Image vectorization](image_vectorize_demo.ipynb)
+10. [Vector math](text_vector_math.ipynb)
 
 ## Applying what we've learned
-10. [Sentiment analysis](Sentiment_analysis.ipynb)
-11. [Classification](Classification.ipynb)
-12. [Apache log analysis](apache_log_analysis_colab.ipynb)
-13. [LLM problems](LLM_Problems.ipynb)
-14. [RAG](retrieval_augmented_generation.ipynb)
+11. [Sentiment analysis](Sentiment_analysis.ipynb)
+12. [Classification](Classification.ipynb)
+13. [Apache log analysis](apache_log_analysis_colab.ipynb)
+14. [LLM problems](LLM_Problems.ipynb)
+15. [RAG](retrieval_augmented_generation.ipynb)
+
+## Diving Deeper
+16. [How transformers work in detail (very low level)](transformer_embeddings_low_level.ipynb)
+17. Vector database considerations
 
 ## Next Steps
-15. Suggested resources for additional learning
+18. Suggested resources for additional learning
