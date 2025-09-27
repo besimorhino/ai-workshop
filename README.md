@@ -9,8 +9,8 @@ Note: for best results, I suggest using Google's Colab service. I've included a 
 The workbooks are grouped by topic and increase in difficulty as you go through each section. Each workbook is 100% stand alone. You do NOT need to complete a prior workbook to do one that interests you. This means you are free to jump around and work on these labs as you choose. However, if you do not have skills or knowledge to understand what is happening in a workbook, there are prior ones you can go back to and experiment with until you are comfortable.
 
 ## Foundations
-1. [Intro to Jupyter Lab workbooks (optional)](Intro_to_Jupyter.ipynb)  
-2. [Intro to Python](intro_to_python.ipynb) (optional)
+1. [Intro to Jupyter Lab workbooks](Intro_to_Jupyter.ipynb)
+2. [Intro to Python](intro_to_python.ipynb)
 3. Helpful Vocabulary
 
 ## Embeddings 
