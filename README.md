@@ -29,14 +29,15 @@ The workbooks are grouped by topic and increase in difficulty as you go through 
 ## Applying what we've learned
 11. [Sentiment analysis](Sentiment_analysis.ipynb)
 12. [Classification](Classification.ipynb)
-13. [Apache log analysis](apache_log_analysis_colab.ipynb)
-14. [LLM problems](LLM_Problems.ipynb)
+13. [Filling in the blanks](fill_mask.ipynb)
+14. [Apache log analysis](apache_log_analysis_colab.ipynb)
+15. [LLM problems](LLM_Problems.ipynb)
 
 ## Diving Deeper
-15. [RAG](retrieval_augmented_generation.ipynb)
-16. [How transformers work in detail (very low level)](transformer_embeddings_low_level.ipynb)
-17. Vector database considerations
-18. Tokenizer issues
+16. [RAG](retrieval_augmented_generation.ipynb)
+17. [How transformers work in detail (very low level)](transformer_embeddings_low_level.ipynb)
+18. Vector database considerations
+19. Tokenizer issues
 
 ## Next Steps
-19. Suggested resources for additional learning
+20. Suggested resources for additional learning
