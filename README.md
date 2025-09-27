@@ -13,7 +13,7 @@ The workbooks are grouped by topic and increase in difficulty as you go through 
 ## Foundations
 1. [Intro to Jupyter Lab workbooks](Intro_to_Jupyter.ipynb)
 2. [Intro to Python](intro_to_python.ipynb)
-3. Helpful Vocabulary
+3. [Helpful Vocabulary](glossary.ipynb)
 
 ## Embeddings 
 4. [Space is meaning](space_approximates_meaning_vectors.ipynb)
