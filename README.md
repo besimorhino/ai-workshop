@@ -29,9 +29,9 @@ The workbooks are grouped by topic and increase in difficulty as you go through 
 12. [Classification](Classification.ipynb)
 13. [Apache log analysis](apache_log_analysis_colab.ipynb)
 14. [LLM problems](LLM_Problems.ipynb)
-15. [RAG](retrieval_augmented_generation.ipynb)
 
 ## Diving Deeper
+15. [RAG](retrieval_augmented_generation.ipynb)
 16. [How transformers work in detail (very low level)](transformer_embeddings_low_level.ipynb)
 17. Vector database considerations
 
