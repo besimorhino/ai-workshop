@@ -36,6 +36,7 @@ The workbooks are grouped by topic and increase in difficulty as you go through 
 15. [RAG](retrieval_augmented_generation.ipynb)
 16. [How transformers work in detail (very low level)](transformer_embeddings_low_level.ipynb)
 17. Vector database considerations
+18. Tokenizer issues
 
 ## Next Steps
-18. Suggested resources for additional learning
+19. Suggested resources for additional learning
